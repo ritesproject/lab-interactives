@@ -6,8 +6,8 @@
   "models": [
     {
       "type": "md2d",
-      "id": "syringe$0",
-      "url": "imports/legacy-mw-content/converted/rites/empty.json",
+      "id": "emptyModel",
+      "url": "empty.json",
       "viewOptions": {
         "controlButtons": "play_reset"
       },
